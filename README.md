@@ -93,24 +93,6 @@ AreaIntruders
 - **Java**: Programming language used for the game's logic and UI.
 - **Swing**: Java library for building the graphical user interface.
 
-## Contributing
-
-If you'd like to contribute to the project, follow these steps:
-
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature-name`.
-3. Commit your changes: `git commit -m 'Add feature'`.
-4. Push to the branch: `git push origin feature-name`.
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Author
 
-[Your Name or Team Name]
-
-## Acknowledgements
-
-Special thanks to anyone who contributed to the development of this game!
+bdnnn
